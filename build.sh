@@ -1,5 +1,5 @@
-echo "git release !\n"
-git co release 
+# echo "git release !\n"
+# git co release 
 
 echo "npx astro build !\n"
 npx astro build
